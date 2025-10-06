@@ -21,7 +21,7 @@
 ---
 
 ## ⚠️ Advertencia
-No nos hacemos responsables del uso que le des al software. Usar esta herramienta puede implicar sanciones en ciertas plataformas. Recomendamos usar en entornos de prueba y con backups.
+No nos hacemos responsables del uso que le des al software. Usar esta herramienta puede implicar sanciones en ciertas plataformas.
 
 ---
 
@@ -31,16 +31,9 @@ Descargá siempre desde los *releases* oficiales del repositorio.
 ---
 
 ## 🛠️ Requisitos
-- Arquitectura / sistema compatible (ej: `arm64-v8a`, `x86`)
+- Arquitectura / sistema compatible (ej: 32 bits, 64 bits`)
 - Permisos necesarios según plataforma
 
----
-
-## 🚀 Instalación rápida
-1. Hacé backup del archivo original.
-2. Descargá el release correcto.
-3. Verificá integridad (hash si se proporciona).
-4. Instalá siguiendo las instrucciones del release.
 
 ---
 
@@ -49,7 +42,3 @@ Descargá siempre desde los *releases* oficiales del repositorio.
 2. Incluí versión, logs y pasos para reproducir.
 3. Adjuntá capturas si corresponde.
 
----
-
-## 📄 Licencia
-MIT / GPL-3.0 (según corresponda).
